@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Tyron, an aspiring IT Professional 
 
 <!--
 **Tstewart2408/tstewart2408** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
