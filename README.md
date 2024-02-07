@@ -1,4 +1,4 @@
-<h1>Hi, I'm Tyron, a <a href="https://linkedin.com/in/TyronStewart/">Tech Sales Professional <h1>Aspiring to Become an IT Professional</a></h1>
+<h1>Hi, I'm Tyron, an <a href="https://linkedin.com/in/TyronStewart/">Aspiring IT Professional <h1></h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
